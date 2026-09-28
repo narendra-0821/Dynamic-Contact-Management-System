@@ -93,23 +93,28 @@ s: sort
 d: delete
 Enter your choice:
 ```
-
 ## Screenshots
 
 ### Add Contact
-![Add Contact](./images/input.png)
+
+![Add Contact](./Contact_Book_Dynamic/images/input.png)
 
 ### Print Records
-![Print Records](./images/print.png)
+
+![Print Records](./Contact_Book_Dynamic/images/print.png)
 
 ### Find Contact
-![Find Contact](./images/find.png)
+
+![Find Contact](./Contact_Book_Dynamic/images/find.png)
 
 ### Sort Contacts
-![Sort Contacts](./images/sort%20and%20print.png)
+
+![Sort Contacts](./Contact_Book_Dynamic/images/sort%20and%20print.png)
 
 ### Delete Contact
-![Delete Contact](./images/delete%20and%20print.png)
+
+![Delete Contact](./Contact_Book_Dynamic/images/delete%20and%20print.png)
+
 
 
 This project is written for a GCC/Linux environment.
