@@ -93,22 +93,24 @@ s: sort
 d: delete
 Enter your choice:
 ```
-## Input
-![input](images/input.png)
 
+## Screenshots
 
-### Contact Records
+### Add Contact
+![Add Contact](./images/input.png)
 
-![Contact Records](images/print.png)
+### Print Records
+![Print Records](./images/print.png)
 
-### Search
+### Find Contact
+![Find Contact](./images/find.png)
 
-![Search](images/find.png)
+### Sort Contacts
+![Sort Contacts](./images/sort%20and%20print.png)
 
-### Sorting
+### Delete Contact
+![Delete Contact](./images/delete%20and%20print.png)
 
-![Sorting](images/sort_and_print.png)
-## Compilation
 
 This project is written for a GCC/Linux environment.
 
